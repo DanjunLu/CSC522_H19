@@ -1,2 +1,0 @@
-# CSC522_H19
-CSC522 project
